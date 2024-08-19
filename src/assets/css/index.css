@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sizemovielist {
+  font-size: calc(15px + 3vmin);
+}
+
+.bg-header {
+    background-image: url("https://image.tmdb.org/t/p/original//iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg");
+    background-size: cover;
+}
